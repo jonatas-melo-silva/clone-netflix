@@ -106,8 +106,7 @@ header nav ul li a:hover {
   justify-content: center;
   align-items: flex-start;
 
-  width: 100%;
-  height: 100%;
+  height: 100vh;
   
   background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)), url('/assets/capa-house.jpg');
   background-size: cover;
